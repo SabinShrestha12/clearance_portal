@@ -1,0 +1,30 @@
+.center{
+  max-width: 200px;
+  max-height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*h2{
+  text-align: center;
+}*/
+form{
+  width:300px;
+  margin: auto;
+
+}
+.login_form{
+  margin-top: 100px;
+  background: #6a85b6;
+  background: linear-gradient(90deg, rgba(106, 133, 182, 0.5), rgba(186, 200, 224, 0.5))
+}
+.col{
+  color: white;
+  border:solid #7393B3;
+  border-left: none;
+  border-right:none;
+}
+/*body {
+  background-image: url(../images/math.jpg);
+  background-size: cover;
+}*/

@@ -1,0 +1,50 @@
+body {
+  background-image: url(../images/ku_1.jpg);
+  background-size:cover;
+}
+.login_padding
+{
+  padding-top: 1.5rem!important;
+  padding-bottom: 1.5rem!important
+  padding-left : 42px;
+}
+.login_padding form h2
+{
+  margin-left: 0px;
+}
+b{
+  font-size: 25px;
+  font-family:fantasy;
+
+
+  /*border-top: none;
+  border-left: none;
+  border-right:none; */
+}
+.h-100{
+  color: #667eea;
+}
+.bg{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.8914916308320203) 35%, rgba(0,212,255,1) 100%);
+  }
+.border{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(99,9,121,1) 37%, rgba(1,211,254,1) 100%);
+}
+/* .nav-link{
+  color:white;
+  font-size:20px;
+  font-weight:bold;
+  border-style: outset;
+  border-color: grey;
+  background-color: black
+} */
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+  font-size: 1.25em;
+}
+.navbar-brand{
+  font-size:1.5em
+}
